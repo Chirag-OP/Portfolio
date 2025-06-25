@@ -23,7 +23,7 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, *
 | 🎨 Styling    | CSS3, Bootstrap 5.3                 |
 | ⚙️ Behavior   | JavaScript (Vanilla)                |
 | 🎭 Icons      | Font Awesome                        |
-| 🧩 Layout     | Flexbox, CSS Grid,                  |
+| 🧩 Layout     | Flexbox, CSS Grid                   |
 
 ---
 
@@ -32,17 +32,17 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, *
 ### 🖥️ Desktop View
 
 #### 🔹 Landing Page
-![Landing Page](assets/screenshots/Page1.png)
+![Landing Page](assets/ScreenShots/Page1.png)
 
 #### 🔹 Second Page
-![Next Page](assets/screenshots/Page2.png)
+![Next Page](assets/ScreenShots/Page2.png)
 
 ---
 
 ### 📱 Mobile View
 
 #### 🔹 Mobile - Landing Page
-![Mobile View Landing Page](assets/screenshots/Page1_mobile.png)
+![Mobile View Landing Page](assets/ScreenShots/Page1_mobile.png)
 
 #### 🔹 Mobile - Second Page
-![Mobile View Next Page](assets/screenshots/Page2_mobile.png)
+![Mobile View Next Page](assets/ScreenShots/Page2_mobile.png)
